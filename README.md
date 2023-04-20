@@ -10,7 +10,7 @@
 - R
 - MATLAB
 ### Notable Projects
-#### Software Only
+#### Software
 - Stock Loss Minimizer (Java Based)
 - JetPac Man (Java Based)
 - Driving Arcade Game (Original work, Python Based)
