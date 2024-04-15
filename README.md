@@ -7,8 +7,9 @@
 - Python
 - Java
 - C++
-- R
 - MATLAB
+- Arduino
+- R
 ### Notable Projects
 #### Software
 - Stock Loss Minimizer (Java Based)
