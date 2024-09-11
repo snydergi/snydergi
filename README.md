@@ -1,9 +1,10 @@
 # Notes on me:
 ### Aspiring Robotics Engineer
-- Senior at Rose-Hulman Institute of Technology, Terre Haute, Indiana
+- MS in Robotics Student at Northwestern University, Evanston, Indiana
+- Graduated from Rose-Hulman Institute of Technology, Terre Haute, Indiana
 - Mechanical Engineering Major
 - Robotics and Computer Science Minors
-### Intermediate Programmer
+### Experienced Programmer
 - Python
 - Java
 - C++
