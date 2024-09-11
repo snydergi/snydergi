@@ -11,6 +11,7 @@
 - MATLAB
 - Arduino
 - R
+- Web Development Suite (HTML, CSS, JavaScript)
 ### Notable Projects
 #### Software
 - Stock Loss Minimizer (Java Based)
