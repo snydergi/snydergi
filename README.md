@@ -6,17 +6,9 @@
   - Robotics and Computer Science Minors
 ### Experienced Programmer
 - Python
-- Java
 - C++
 - MATLAB
 - Arduino
+- Java
 - R
 - Web Development Suite (HTML, CSS, JavaScript)
-### Notable Projects
-#### Software
-- Stock Loss Minimizer (Java Based)
-- JetPac Man (Java Based)
-- Driving Arcade Game (Original work, Python Based)
-#### Multidisciplinary
-- Automated, Interactive Dog Treat Dispenser
-- Under-bed Storage System
